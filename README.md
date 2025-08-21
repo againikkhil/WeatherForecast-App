@@ -12,7 +12,7 @@ The Weather Forecast Web App provides users with real-time weather information f
 
 🌍 Multi-location Support – Switch between different cities seamlessly.
 
-🌐 Live Demo:[WeatherForecast-App](https://forecast-app-nikhil.netlify.app/)
+🌐 Live Demo: [WeatherForecast-App](https://forecast-app-nikhil.netlify.app/)
 
 
 
